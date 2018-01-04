@@ -1,10 +1,10 @@
 # #100DaysOfCode Log - Round 1 - [Your Name Here]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [Thursday, January 4th, 2018].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+I spent a few minutes working on the "Advanced Topics" section of Codecademy's Python course. Today I learned about Python's comprehension syntax. At first it seems like a powerful way to use shorthand to accomplish something that otherwise would take multiple lines (like the spread/rest operator, arrow functions and other features of ES2015+).
 
 ### R1D2
