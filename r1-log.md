@@ -13,3 +13,6 @@ I finished Learn You Node. I enjoyed the workshop's concise instructions, which 
 I started How To NPM. I found the first the few exercises I nice test on using NPM, but I stopped once I felt that it was going over information I was already familiar.
 
 I started my Random project, and make a lot of progress on it. It was my first time using the npm init command and working with a package.json. I feel very confident, and I'm looking forward to continue to tinker with Node.
+
+### R1D3 (January 6th, 2018) 
+I read a few good articles on JavaScript. One was about async/await and promises. I also got my random CLI working as a global module. I might revisit it in the future and make some additions but for now I'm satisfied with the result 
