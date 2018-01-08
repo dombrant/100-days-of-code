@@ -19,3 +19,7 @@ I read a few good articles on JavaScript. One was about async/await and promises
 
 ### R1D4 (January 7th, 2018)
 I was a bit tired today and didn't have too much free time, but I managed to read a couple good articles from Sessionstack's Medium page. One on how V8 works, and the other on how Web Assembly works. Both were pretty high-concept topics for me, and some of it flew right over my head, but I still found them interesting. I'll definitely be paying close attention to how Web Assembly evolves as it gains more browser support.
+
+### R1D5 (January 8th, 2018)
+I finished the last few exercises on the "Advanced Topics" section of Codecademy's Python course. I learned lambda expressions, which seemed daunting at first but I was able to grasp them fairly quickly.
+
