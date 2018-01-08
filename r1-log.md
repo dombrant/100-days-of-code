@@ -23,3 +23,5 @@ I was a bit tired today and didn't have too much free time, but I managed to rea
 ### R1D5 (January 8th, 2018)
 I finished the last few exercises on the "Advanced Topics" section of Codecademy's Python course. I learned lambda expressions, which seemed daunting at first but I was able to grasp them fairly quickly.
 
+I finished testing out the font loading API. It's really useful, and easy to implement.
+
