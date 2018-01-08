@@ -16,3 +16,6 @@ I started my Random project, and make a lot of progress on it. It was my first t
 
 ### R1D3 (January 6th, 2018) 
 I read a few good articles on JavaScript. One was about async/await and promises. I also got my random CLI working as a global module. I might revisit it in the future and make some additions but for now I'm satisfied with the result 
+
+### R1D4 (January 7th, 2018)
+I was a bit tired today and didn't have too much free time, but I managed to read a couple good articles from Sessionstack's Medium page. One on how V8 works, and the other on how Web Assembly works. Both were pretty high-concept topics for me, and some of it flew right over my head, but I still found them interesting. I'll definitely be paying close attention to how Web Assembly evolves as it gains more browser support.
