@@ -25,3 +25,5 @@ I finished the last few exercises on the "Advanced Topics" section of Codecademy
 
 I finished testing out the font loading API. It's really useful, and easy to implement.
 
+### R1D6 (January 9th, 2018)
+I got some work done on the "Introduction to Bitwise Operators" section of Codecademy's Python course. Coding in binary seems scary but it doesn't take too long to get the number system down. I also read a couple articles, including MDN's Introduction to CSS Box Model. It felt good to brush up on the fundamentals of CSS.
