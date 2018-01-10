@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Dominic Brant]
 
 The log of my #100DaysOfCode challenge. Started on Thursday, January 4th, 2018.
 
