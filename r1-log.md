@@ -30,3 +30,10 @@ I got some work done on the "Introduction to Bitwise Operators" section of Codec
 
 ### R1D7 (January 10th, 2018)
 Did a light amount of coding today. Finished the "Introduction to Bitwise Operators" section of Codecademy's Python course.
+
+### R1D8 (January 11th, 2018)
+I started and my finished my module I wrote that checks if a string, array or object is empty. All the credit goes to Peter Piekarczyk for [tweeting the code out](https://twitter.com/peterpme/status/949352875687202816).
+
+I made some more progress on Codecademy's Python course, learning about classes. It was fairly easy to pick up, not much that makes it different from the way classes work in Java or JavaScript.
+
+Finally, I read a few good articles today. The one most worth mentioning would have to be FreeCodeCamp's [article on Node streams](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93). It was a lot of new information and I'll have to revisit it in the future to better understand it, but it was a valuable read.
