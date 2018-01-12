@@ -37,3 +37,6 @@ I started and my finished my module I wrote that checks if a string, array or ob
 I made some more progress on Codecademy's Python course, learning about classes. It was fairly easy to pick up, not much that makes it different from the way classes work in Java or JavaScript.
 
 Finally, I read a few good articles today. The one most worth mentioning would have to be FreeCodeCamp's [article on Node streams](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93). It was a lot of new information and I'll have to revisit it in the future to better understand it, but it was a valuable read.
+
+### R1D9 (January 12th, 2018)
+I had a busy morning, so I didn't get to do any coding today. I did get a chance to read a good article explaining how HTTP2/server push works.
