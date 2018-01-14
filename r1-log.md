@@ -40,3 +40,6 @@ Finally, I read a few good articles today. The one most worth mentioning would h
 
 ### R1D9 (January 12th, 2018)
 I had a busy morning, so I didn't get to do any coding today. I did get a chance to read a good article explaining how HTTP2/server push works.
+
+### R1D10 (January 13th, 2018)
+Another busy day. No coding unfortunately, but I did find the time to enjoy Traversy Media's [JSON Crash Course video](https://youtu.be/wI1CWzNtE-M). I always love watching one of his videos, and even though JSON seems like a shallow topic, it taught me a few things I didn't know before.
