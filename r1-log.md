@@ -43,3 +43,6 @@ I had a busy morning, so I didn't get to do any coding today. I did get a chance
 
 ### R1D10 (January 13th, 2018)
 Another busy day. No coding unfortunately, but I did find the time to enjoy Traversy Media's [JSON Crash Course video](https://youtu.be/wI1CWzNtE-M). I always love watching one of his videos, and even though JSON seems like a shallow topic, it taught me a few things I didn't know before.
+
+### R1D11 (January 14th, 2018)
+Didn't get any coding into today. I did read Stephanie Drescher's ["Lint the Web Forward with Sonarwhal"](https://24ways.org/2017/lint-the-web-forward-with-sonarwhal/), which was  great.
