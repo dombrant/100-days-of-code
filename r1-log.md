@@ -46,3 +46,6 @@ Another busy day. No coding unfortunately, but I did find the time to enjoy Trav
 
 ### R1D11 (January 14th, 2018)
 Didn't get any coding into today. I did read Stephanie Drescher's ["Lint the Web Forward with Sonarwhal"](https://24ways.org/2017/lint-the-web-forward-with-sonarwhal/), which was  great.
+
+### R1D12 (January 15th, 2018)
+I finished the Codecademy Python course's introduction to classes. I also got started my Node battleship CLI. I had trouble handling taking multiple lines of input and then having the battle logic execute. I may have to enlist the help of a package that makes readline input synchronous.
