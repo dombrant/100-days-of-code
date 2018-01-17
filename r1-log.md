@@ -49,3 +49,6 @@ Didn't get any coding into today. I did read Stephanie Drescher's ["Lint the Web
 
 ### R1D12 (January 15th, 2018)
 I finished the Codecademy Python course's introduction to classes. I also got started my Node battleship CLI. I had trouble handling taking multiple lines of input and then having the battle logic execute. I may have to enlist the help of a package that makes readline input synchronous.
+
+### R1D13 (January 16th, 2018)
+I didn't get any coding in today, but I read ["How did I land my first job as a self-taught developer? I prepared like crazy."](https://medium.freecodecamp.org/how-i-set-myself-up-to-land-my-first-job-as-a-self-taught-developer-43d326ea6b67)
