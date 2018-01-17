@@ -52,3 +52,6 @@ I finished the Codecademy Python course's introduction to classes. I also got st
 
 ### R1D13 (January 16th, 2018)
 I didn't get any coding in today, but I read ["How did I land my first job as a self-taught developer? I prepared like crazy."](https://medium.freecodecamp.org/how-i-set-myself-up-to-land-my-first-job-as-a-self-taught-developer-43d326ea6b67)
+
+### R1D14 (January 17th, 2018)
+Didn't get to do any coding today either, but I read a great article titled [A Beginner’s Guide to HTTP/2 and its Importance](https://www.advancedwebranking.com/blog/beginners-guide-to-http2/). It gave me the most clear understanding of HTTP/2 and its benefits I've gotten so far.
