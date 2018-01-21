@@ -66,3 +66,6 @@ Didn't get any coding done today, but I read [this article](https://medium.freec
 
 ### R1D17 (January 20th, 2018)
 Almost done with the Codecademy Python course. I finished another section on classes. It's nice getting more experience with OOP, even though Python's syntax feels a little odd compared to how classes work in JavaScript.
+
+### R1D18 (January 21th, 2018)
+I finished the Codecademy Python course. The last section was comprised of the fundamentals of I/O. I found it to be easy to pick up and learn, and it will serve useful if I ever work with a Python REST API.
