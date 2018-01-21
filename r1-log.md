@@ -63,3 +63,6 @@ Finally, I made another one-liner utility that filters duplicate values from an 
 
 ### R1D16 (January 19th, 2018)
 Didn't get any coding done today, but I read [this article](https://medium.freecodecamp.org/i-dropped-out-of-college-to-pursue-my-dreams-of-being-a-web-developer-and-designer-1abfecb44232) about a guy who left college to become a web developer. It was a fascinating story. He sounds very driven and of course, brilliant.
+
+### R1D17 (January 20th, 2018)
+Almost done with the Codecademy Python course. I finished another section on classes. It's nice getting more experience with OOP, even though Python's syntax feels a little odd compared to how classes work in JavaScript.
