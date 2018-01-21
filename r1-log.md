@@ -60,3 +60,6 @@ Didn't get to do any coding today either, but I read a great article titled [A B
 I read a really comprehensive article on [Web Content Accessibility Guidelines](https://24ways.org/2017/wcag-for-people-who-havent-read-them/), and I got a fair amount of coding in today. I spent some time working on my Node battleship command line game. I'm still having trouble getting the part of the program that asks for user input to repeat (without just copying and pasting my code multiple times), so I'm going to take a break from it. I'll revisit it in the future once I get a better understanding of Node.
 
 Finally, I made another one-liner utility that filters duplicate values from an array. Big ups to Addy Osmani for [Tweeting the code](https://twitter.com/addyosmani/status/952805052086824960?ref_src=twcamp%5Eshare%7Ctwsrc%5Em5%7Ctwgr%5Eemail%7Ctwcon%5E7046%7Ctwterm%5E1).
+
+### R1D16 (January 19th, 2018)
+Didn't get any coding done today, but I read [this article](https://medium.freecodecamp.org/i-dropped-out-of-college-to-pursue-my-dreams-of-being-a-web-developer-and-designer-1abfecb44232) about a guy who left college to become a web developer. It was a fascinating story. He sounds very driven and of course, brilliant.
