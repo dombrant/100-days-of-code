@@ -69,3 +69,6 @@ Almost done with the Codecademy Python course. I finished another section on cla
 
 ### R1D18 (January 21th, 2018)
 I finished the Codecademy Python course. The last section was comprised of the fundamentals of I/O. I found it to be easy to pick up and learn, and it will serve useful if I ever work with a Python REST API.
+
+### R1D19 (January 22nd, 2018)
+I got some work done on my project to test out different ways of making HTTP requests in Node. I played around with the core http module, and I also tried Request.
