@@ -72,3 +72,6 @@ I finished the Codecademy Python course. The last section was comprised of the f
 
 ### R1D19 (January 22nd, 2018)
 I got some work done on my project to test out different ways of making HTTP requests in Node. I played around with the core http module, and I also tried Request.
+
+### R1D20 (January 23rd, 2018)
+Today I read CSS Tricks' [GraphQL guide for front end developers](https://css-tricks.com/front-end-developers-guide-graphql/). It was concise and informative. I have a much better understaning of GraphQL and how it works now.
