@@ -75,3 +75,6 @@ I got some work done on my project to test out different ways of making HTTP req
 
 ### R1D20 (January 23rd, 2018)
 Today I read CSS Tricks' [GraphQL guide for front end developers](https://css-tricks.com/front-end-developers-guide-graphql/). It was concise and informative. I have a much better understaning of GraphQL and how it works now.
+
+### R1D21 (January 24th, 2018)
+I finished my project of testing HTTP requests in Node. Now I'm going to try using Async/Await for the first time. I'm going to try it in both Node and the browser.
