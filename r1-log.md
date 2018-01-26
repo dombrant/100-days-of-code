@@ -78,3 +78,6 @@ Today I read CSS Tricks' [GraphQL guide for front end developers](https://css-tr
 
 ### R1D21 (January 24th, 2018)
 I finished my project of testing HTTP requests in Node. Now I'm going to try using Async/Await for the first time. I'm going to try it in both Node and the browser.
+
+### R1D22 (January 25th, 2018)
+I got a lot done today. I finished my project of testing Async/Await in both Node and the browser. It's a great new addition to JavaScript. I'll definitely be taking advantage of it going forward.
