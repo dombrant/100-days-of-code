@@ -81,3 +81,9 @@ I finished my project of testing HTTP requests in Node. Now I'm going to try usi
 
 ### R1D22 (January 25th, 2018)
 I got a lot done today. I finished my project of testing Async/Await in both Node and the browser. It's a great new addition to JavaScript. I'll definitely be taking advantage of it going forward.
+
+### R1D23 (January 26th, 2018)
+Missed today. Got no coding in. No excuses, time to get it done these next few days and strengthen my habit of coding daily.
+
+### R1D24 (January 27th, 2018)
+Today I read Lee Robinson's [How Stripe Designs Beautiful Websites](https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/). It was a quick yet layered breakdown of the things big and small a wesbite like Stripe's homepage does.
