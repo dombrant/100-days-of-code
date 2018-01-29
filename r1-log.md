@@ -87,3 +87,6 @@ Missed today. Got no coding in. No excuses, time to get it done these next few d
 
 ### R1D24 (January 27th, 2018)
 Today I read Lee Robinson's [How Stripe Designs Beautiful Websites](https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/). It was a quick yet layered breakdown of the things big and small a wesbite like Stripe's homepage does.
+
+### R1D25 (January 28th, 2018)
+Today I read Rachel Andrew's [article on testing for the web](https://24ways.org/2017/testing-the-web-platform/?utm_content=buffer668e3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer).
