@@ -90,3 +90,6 @@ Today I read Lee Robinson's [How Stripe Designs Beautiful Websites](https://www.
 
 ### R1D25 (January 28th, 2018)
 Today I read Rachel Andrew's [article on testing for the web](https://24ways.org/2017/testing-the-web-platform/?utm_content=buffer668e3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer).
+
+### R1D26 (January 29th, 2018)
+I got about halfway through Node School's Stream Adventure workshop. Looking forward to completing it this week.
