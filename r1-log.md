@@ -93,3 +93,8 @@ Today I read Rachel Andrew's [article on testing for the web](https://24ways.org
 
 ### R1D26 (January 29th, 2018)
 I got about halfway through Node School's Stream Adventure workshop. Looking forward to completing it this week.
+
+### R1D27 (January 30th, 2018)
+Made a lot of progress today. I finished Node School's Stream Adventure (well I didn't finish it, I decided to shelve it for now, as I plan on doing some reading up on streams first). 
+
+I also played around with making a static file server using Node's http module. It worked (kinda) but it took a lot longer than I anticipated. I finally decided to give it a go in Express, and that was much easier. I can see why Express is popular!
