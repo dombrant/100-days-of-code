@@ -98,3 +98,7 @@ I got about halfway through Node School's Stream Adventure workshop. Looking for
 Made a lot of progress today. I finished Node School's Stream Adventure (well I didn't finish it, I decided to shelve it for now, as I plan on doing some reading up on streams first). 
 
 I also played around with making a static file server using Node's http module. It worked (kinda) but it took a lot longer than I anticipated. I finally decided to give it a go in Express, and that was much easier. I can see why Express is popular!
+
+### R1D28 (January 31st, 2018)
+Another day with a lot of progress. I finished my Express server, and I got to play with Browser Sync and Live Server for using live reload. I also used Boxen and Chalk to stylize the messages my server logs to the command line.
+
