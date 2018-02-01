@@ -102,3 +102,6 @@ I also played around with making a static file server using Node's http module. 
 ### R1D28 (January 31st, 2018)
 Another day with a lot of progress. I finished my Express server, and I got to play with Browser Sync and Live Server for using live reload. I also used Boxen and Chalk to stylize the messages my server logs to the command line.
 
+### R1D29 (February 1st, 2018)
+Today I read the [Stream Handbook GitHub Repo](https://github.com/substack/stream-handbook).
+
