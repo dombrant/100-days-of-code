@@ -108,3 +108,6 @@ Today I read the [Stream Handbook GitHub Repo](https://github.com/substack/strea
 ### R1D30 (February 2nd, 2018)
 
 Today I read [this great article](https://medium.freecodecamp.org/how-i-went-from-programming-with-a-feature-phone-to-working-for-an-mit-startup-40ca3be4fa0f) about a young man in Africa who started programming from a feature phone. It taught me quite a few things. First, there are many people in the world who do not have access to some of the things I have in my life (high speed internet, a fast computer, a smartphone) that make programming easier. Second, there is always a way to accomplish your goals in programming, it's just about how hard you're willing to work to get it done.
+
+### R1D31 (February 3rd, 2018)
+Today I started trying out Gulp as a build tool. I didn't make a lot of progress, but I did a lot of work getting things set up. I learned along the way some ways to troubleshoot various issues of modules not being found and similar errors. Looking forward to learning more about it how Gulp works and what it can do.
