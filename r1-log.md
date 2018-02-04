@@ -111,3 +111,6 @@ Today I read [this great article](https://medium.freecodecamp.org/how-i-went-fro
 
 ### R1D31 (February 3rd, 2018)
 Today I started trying out Gulp as a build tool. I didn't make a lot of progress, but I did a lot of work getting things set up. I learned along the way some ways to troubleshoot various issues of modules not being found and similar errors. Looking forward to learning more about it how Gulp works and what it can do.
+
+### R1D32 (February 4th, 2018)
+I made more progress in testing out Gulp today. I got some PostCSS plugins working, as well strip-debug and uglify-es for Javascript. Using the parallel function in Gulp 4 is nice.
