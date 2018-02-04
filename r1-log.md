@@ -105,3 +105,6 @@ Another day with a lot of progress. I finished my Express server, and I got to p
 ### R1D29 (February 1st, 2018)
 Today I read the [Stream Handbook GitHub Repo](https://github.com/substack/stream-handbook).
 
+### R1D30 (February 2nd, 2018)
+
+Today I read [this great article](https://medium.freecodecamp.org/how-i-went-from-programming-with-a-feature-phone-to-working-for-an-mit-startup-40ca3be4fa0f) about a young man in Africa who started programming from a feature phone. It taught me quite a few things. First, there are many people in the world who do not have access to some of the things I have in my life (high speed internet, a fast computer, a smartphone) that make programming easier. Second, there is always a way to accomplish your goals in programming, it's just about how hard you're willing to work to get it done.
