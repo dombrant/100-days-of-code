@@ -114,3 +114,6 @@ Today I started trying out Gulp as a build tool. I didn't make a lot of progress
 
 ### R1D32 (February 4th, 2018)
 I made more progress in testing out Gulp today. I got some PostCSS plugins working, as well strip-debug and uglify-es for Javascript. Using the parallel function in Gulp 4 is nice.
+
+### R1D33 (February 5th, 2018)
+Today I did so more work with Gulp. That consisted of getting the sourcemaps plugin working. I also separated my css into two files: `Reset.css` and `Style.css`. Later on I plan to use the concat plugin to merge files such as these together.
