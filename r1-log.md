@@ -120,3 +120,6 @@ Today I did so more work with Gulp. That consisted of getting the sourcemaps plu
 
 ### R1D34 (February 6th, 2018)
 Today I read [I just asked 23,000 developers what they think of JavaScript.](https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa). It was a good article, it gives a perspective on how many different areas of interest there are within web development.
+
+### R1D35 (February 7th, 2018)
+Today I did some work with Gulp. Today I tried using the concat plugin to merge CSS and JS files. I also got the gulp.watch function working, which seems like it will prove to be really useful.
