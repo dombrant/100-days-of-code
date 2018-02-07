@@ -117,3 +117,6 @@ I made more progress in testing out Gulp today. I got some PostCSS plugins worki
 
 ### R1D33 (February 5th, 2018)
 Today I did so more work with Gulp. That consisted of getting the sourcemaps plugin working. I also separated my css into two files: `Reset.css` and `Style.css`. Later on I plan to use the concat plugin to merge files such as these together.
+
+### R1D34 (February 6th, 2018)
+Today I read [I just asked 23,000 developers what they think of JavaScript.](https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa). It was a good article, it gives a perspective on how many different areas of interest there are within web development.
