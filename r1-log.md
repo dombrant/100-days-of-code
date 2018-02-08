@@ -123,3 +123,6 @@ Today I read [I just asked 23,000 developers what they think of JavaScript.](htt
 
 ### R1D35 (February 7th, 2018)
 Today I did some work with Gulp. Today I tried using the concat plugin to merge CSS and JS files. I also got the gulp.watch function working, which seems like it will prove to be really useful.
+
+### R1D36 (February 8th, 2018)
+Today I made some more progress on learning Gulp. I got the html-replace plugin working to have my build create a new html file that links to my CSS and JavaScript build files.
