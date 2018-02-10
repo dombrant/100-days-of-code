@@ -126,3 +126,6 @@ Today I did some work with Gulp. Today I tried using the concat plugin to merge 
 
 ### R1D36 (February 8th, 2018)
 Today I made some more progress on learning Gulp. I got the html-replace plugin working to have my build create a new html file that links to my CSS and JavaScript build files.
+
+### R1D37 (February 9th, 2018)
+Today I read [5 GitHub Tips for New Coders](https://medium.freecodecamp.org/5-github-tips-for-new-coders-2f312689ffd5).
