@@ -129,3 +129,6 @@ Today I made some more progress on learning Gulp. I got the html-replace plugin 
 
 ### R1D37 (February 9th, 2018)
 Today I read [5 GitHub Tips for New Coders](https://medium.freecodecamp.org/5-github-tips-for-new-coders-2f312689ffd5).
+
+### R1D38 (February 10th, 2018)
+Today I listend to the [JavaScript Tooling](https://syntax.fm/show/004/javascript-tooling) episode of Syntax FM. It was a great episode of one of my favorite web development podcasts.
