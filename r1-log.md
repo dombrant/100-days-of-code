@@ -132,3 +132,6 @@ Today I read [5 GitHub Tips for New Coders](https://medium.freecodecamp.org/5-gi
 
 ### R1D38 (February 10th, 2018)
 Today I listend to the [JavaScript Tooling](https://syntax.fm/show/004/javascript-tooling) episode of Syntax FM. It was a great episode of one of my favorite web development podcasts.
+
+### R1D39 (February 11th, 2018)
+Today I read [Announcing CodeSandbox 2.0](https://hackernoon.com/announcing-codesandbox-2-0-938cff3a0fcb). I just heard of CodeSandbox for the first time this week, and it sounds really cool and full of some great features. I'll be keeping a close eye on it to see how it grows and matures.
