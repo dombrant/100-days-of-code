@@ -135,3 +135,6 @@ Today I listend to the [JavaScript Tooling](https://syntax.fm/show/004/javascrip
 
 ### R1D39 (February 11th, 2018)
 Today I read [Announcing CodeSandbox 2.0](https://hackernoon.com/announcing-codesandbox-2-0-938cff3a0fcb). I just heard of CodeSandbox for the first time this week, and it sounds really cool and full of some great features. I'll be keeping a close eye on it to see how it grows and matures.
+
+### R1D40 (February 12th, 2018)
+Today I got some more work done with Gulp. I tested using live-server while my Gulp file watches for changes in my HTML, CSS or JavaScript. I only have a few more plugins left to test out.
