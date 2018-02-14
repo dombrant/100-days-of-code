@@ -141,3 +141,6 @@ Today I got some more work done with Gulp. I tested using live-server while my G
 
 ### R1D41 (February 13th, 2018)
 Today I did some more work with Gulp. I spend most of my time working on setting up a function to display the size of my Index.html and its CSS and JS files. It was harder than I anticipated. I ended up making a custom solution using the fs module's stat function.
+
+### R1D42 (February 14th, 2018)
+Today I finished my gulp test project. The last plugin I tested was gulp-responsive to generate different sizes of images. It was really powerful, but I'm not sure how much I'll need it for my projects given that I don't handle a large number of images. I've got to say, I really like gulp, and I'll be using it a lot in the future.
