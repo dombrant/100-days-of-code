@@ -138,3 +138,6 @@ Today I read [Announcing CodeSandbox 2.0](https://hackernoon.com/announcing-code
 
 ### R1D40 (February 12th, 2018)
 Today I got some more work done with Gulp. I tested using live-server while my Gulp file watches for changes in my HTML, CSS or JavaScript. I only have a few more plugins left to test out.
+
+### R1D41 (February 13th, 2018)
+Today I did some more work with Gulp. I spend most of my time working on setting up a function to display the size of my Index.html and its CSS and JS files. It was harder than I anticipated. I ended up making a custom solution using the fs module's stat function.
