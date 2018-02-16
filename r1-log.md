@@ -144,3 +144,6 @@ Today I did some more work with Gulp. I spend most of my time working on setting
 
 ### R1D42 (February 14th, 2018)
 Today I finished my gulp test project. The last plugin I tested was gulp-responsive to generate different sizes of images. It was really powerful, but I'm not sure how much I'll need it for my projects given that I don't handle a large number of images. I've got to say, I really like gulp, and I'll be using it a lot in the future.
+
+### R1D43 (February 15th, 2018)
+Today I read [Lessons from 7 self-taught coders](https://medium.freecodecamp.org/inspirational-success-stories-from-self-taught-web-developers-4f6f375cf17d). It was cool to see some stories from different people, and how there is overlap in much of what they went through to get into the tech industry.
