@@ -147,3 +147,6 @@ Today I finished my gulp test project. The last plugin I tested was gulp-respons
 
 ### R1D43 (February 15th, 2018)
 Today I read [Lessons from 7 self-taught coders](https://medium.freecodecamp.org/inspirational-success-stories-from-self-taught-web-developers-4f6f375cf17d). It was cool to see some stories from different people, and how there is overlap in much of what they went through to get into the tech industry.
+
+### R1D44 (February 16th, 2018)
+Today I started playing with Babel. This is really exciting because I've read a lot about it, and getting off the ground wasn't too hard. Next up, I'll be integreating it into my Gulp build.
