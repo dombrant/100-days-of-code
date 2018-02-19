@@ -153,3 +153,6 @@ Today I started playing with Babel. This is really exciting because I've read a 
 
 ### R1D45 (February 17th, 2018)
 Today I finished my test project for Babel using the gulp-babel plugin. I got some basic transpilation with preset-env. I also got a .babelrc.js file working too. Looking forward to using this in the future.
+
+### R1D46 (February 18th, 2018)
+Today I didn't get any coding in. I'm looking forward to trying out Prepack tomorrow however.
