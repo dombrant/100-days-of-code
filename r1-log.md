@@ -156,3 +156,6 @@ Today I finished my test project for Babel using the gulp-babel plugin. I got so
 
 ### R1D46 (February 18th, 2018)
 Today I didn't get any coding in. I'm looking forward to trying out Prepack tomorrow however.
+
+### R1D47 (February 19th, 2018)
+Today I spent some time trying out Prepack. I tried the online REPL and then the CLI. It's a really exciting concept, and hopefully I'll find ways to incorporate it into the builds of my future projects.
