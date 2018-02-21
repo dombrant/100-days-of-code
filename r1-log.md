@@ -162,3 +162,6 @@ Today I spent some time trying out Prepack. I tried the online REPL and then the
 
 ### R1D48 (February 20th, 2018)
 Today I read [Node Style Guide](https://github.com/felixge/node-style-guide). It's a quick read of general best practices for writing Node.js code.
+
+### R1D49 (February 21st, 2018)
+Today I watched and coded along to the first 20 minutes of Brad Traversy's [AJAX Crash Course](https://youtu.be/82hnvUYY6QA). I learned about how an AJAX goes through five different state changes when a request is made.
