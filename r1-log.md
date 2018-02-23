@@ -165,3 +165,6 @@ Today I read [Node Style Guide](https://github.com/felixge/node-style-guide). It
 
 ### R1D49 (February 21st, 2018)
 Today I watched and coded along to the first 20 minutes of Brad Traversy's [AJAX Crash Course](https://youtu.be/82hnvUYY6QA). I learned about how an AJAX goes through five different state changes when a request is made.
+
+### R1D50 (February 22nd, 2018)
+50 days! I'm halfway there! Today I made some progress on Brad Traversy's [AJAX Crash Course](https://youtu.be/82hnvUYY6QA). I finished the part using the GitHub API, which felt really cool even though it was very simple. The last part of the video is about working with a PHP file. I plan on watching the rest but I'm not sure if I'm going to code along to it.
