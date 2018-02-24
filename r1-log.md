@@ -4,18 +4,18 @@ The log of my #100DaysOfCode challenge. Started on Thursday, January 4th, 2018.
 
 ## Log
 
-### R1D1 (January 4th, 2018) 
+### R1D1 (January 4th, 2018)
 I spent a few minutes working on the "Advanced Topics" section of Codecademy's Python course. Today I learned about Python's comprehension syntax. At first it seems like a powerful way to use shorthand to accomplish something that otherwise would take multiple lines (like the spread/rest operator, arrow functions and other features of ES2015+).
 
-### R1D2 (January 5th, 2018) 
+### R1D2 (January 5th, 2018)
 I finished Learn You Node. I enjoyed the workshop's concise instructions, which forced me to spent time to figure out the problem. While I had to copy off the solution in the repo (no shame), I learned a lot in a short amount of time.
 
 I started How To NPM. I found the first the few exercises I nice test on using NPM, but I stopped once I felt that it was going over information I was already familiar.
 
 I started my Random project, and make a lot of progress on it. It was my first time using the npm init command and working with a package.json. I feel very confident, and I'm looking forward to continue to tinker with Node.
 
-### R1D3 (January 6th, 2018) 
-I read a few good articles on JavaScript. One was about async/await and promises. I also got my random CLI working as a global module. I might revisit it in the future and make some additions but for now I'm satisfied with the result 
+### R1D3 (January 6th, 2018)
+I read a few good articles on JavaScript. One was about async/await and promises. I also got my random CLI working as a global module. I might revisit it in the future and make some additions but for now I'm satisfied with the result
 
 ### R1D4 (January 7th, 2018)
 I was a bit tired today and didn't have too much free time, but I managed to read a couple good articles from Sessionstack's Medium page. One on how V8 works, and the other on how Web Assembly works. Both were pretty high-concept topics for me, and some of it flew right over my head, but I still found them interesting. I'll definitely be paying close attention to how Web Assembly evolves as it gains more browser support.
@@ -95,7 +95,7 @@ Today I read Rachel Andrew's [article on testing for the web](https://24ways.org
 I got about halfway through Node School's Stream Adventure workshop. Looking forward to completing it this week.
 
 ### R1D27 (January 30th, 2018)
-Made a lot of progress today. I finished Node School's Stream Adventure (well I didn't finish it, I decided to shelve it for now, as I plan on doing some reading up on streams first). 
+Made a lot of progress today. I finished Node School's Stream Adventure (well I didn't finish it, I decided to shelve it for now, as I plan on doing some reading up on streams first).
 
 I also played around with making a static file server using Node's http module. It worked (kinda) but it took a lot longer than I anticipated. I finally decided to give it a go in Express, and that was much easier. I can see why Express is popular!
 
@@ -168,3 +168,6 @@ Today I watched and coded along to the first 20 minutes of Brad Traversy's [AJAX
 
 ### R1D50 (February 22nd, 2018)
 50 days! I'm halfway there! Today I made some progress on Brad Traversy's [AJAX Crash Course](https://youtu.be/82hnvUYY6QA). I finished the part using the GitHub API, which felt really cool even though it was very simple. The last part of the video is about working with a PHP file. I plan on watching the rest but I'm not sure if I'm going to code along to it.
+
+### R1D51 (February 23rd, 2018)
+Today I listened to [episode 30](http://frontendhappyhour.com/episodes/static-site-generators-and-dynamic-drink-drinkers/) of the Front End Happy Hour podcast. It was really entertaining and informative. After listening I think I'm going to make a project to build a static site generator in Node.js in the near future.
