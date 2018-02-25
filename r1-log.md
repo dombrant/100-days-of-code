@@ -171,3 +171,6 @@ Today I watched and coded along to the first 20 minutes of Brad Traversy's [AJAX
 
 ### R1D51 (February 23rd, 2018)
 Today I listened to [episode 30](http://frontendhappyhour.com/episodes/static-site-generators-and-dynamic-drink-drinkers/) of the Front End Happy Hour podcast. It was really entertaining and informative. After listening I think I'm going to make a project to build a static site generator in Node.js in the near future.
+
+### R1D52 (February 24th, 2018)
+Today I finished Brad Traversy's AJAX Crash Course video, and I also started and finished his [Fetch API Introduction](https://youtu.be/Oive66jrwBs) video. The Fetch API video was really fun to do, because it was my first time submitting a post request. The Fetch API makes it pretty simple.
