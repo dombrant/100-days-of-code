@@ -174,3 +174,8 @@ Today I listened to [episode 30](http://frontendhappyhour.com/episodes/static-si
 
 ### R1D52 (February 24th, 2018)
 Today I finished Brad Traversy's AJAX Crash Course video, and I also started and finished his [Fetch API Introduction](https://youtu.be/Oive66jrwBs) video. The Fetch API video was really fun to do, because it was my first time submitting a post request. The Fetch API makes it pretty simple.
+
+### R1D53 (February 25th, 2018)
+Today I got a few small projects done. I tested a project of making a release in GitHub using Git tags. I also got my portfolio's 'coming soon' page working in Firefox (it was a simple fix with the margin-top for the first element in the container. I also coded along to Brandon Morelli's articles on [map, filter, reduce and chaining all three](https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4). It was a really fun exercise.
+
+Lastly, I got some of things in place to get started on v1.0 of my portfolio.
