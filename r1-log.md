@@ -179,3 +179,6 @@ Today I finished Brad Traversy's AJAX Crash Course video, and I also started and
 Today I got a few small projects done. I tested a project of making a release in GitHub using Git tags. I also got my portfolio's 'coming soon' page working in Firefox (it was a simple fix with the margin-top for the first element in the container. I also coded along to Brandon Morelli's articles on [map, filter, reduce and chaining all three](https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4). It was a really fun exercise.
 
 Lastly, I got some of things in place to get started on v1.0 of my portfolio.
+
+### R1D54 (February 26th, 2018)
+I got Emmet set up for Atom and Sublime. It's so cool how fast it is to type out things that are normally complex. I also started making some edits to the photos I'm considering using for the main banner image on my portfolio.
