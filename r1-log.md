@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Dominic Brant]
+#100DaysOfCode Log - Round 1 - [Dominic Brant]
 
 The log of my #100DaysOfCode challenge. Started on Thursday, January 4th, 2018.
 
@@ -182,3 +182,6 @@ Lastly, I got some of things in place to get started on v1.0 of my portfolio.
 
 ### R1D54 (February 26th, 2018)
 I got Emmet set up for Atom and Sublime. It's so cool how fast it is to type out things that are normally complex. I also started making some edits to the photos I'm considering using for the main banner image on my portfolio.
+
+### R1D55 (February 27th, 2018)
+I got a lot of the structure set up for my portfolio. I also got all of the potential banner images desinged. Looking forward to getting into the coding soon.
