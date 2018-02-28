@@ -185,3 +185,6 @@ I got Emmet set up for Atom and Sublime. It's so cool how fast it is to type out
 
 ### R1D55 (February 27th, 2018)
 I got a lot of the structure set up for my portfolio. I also got all of the potential banner images desinged. Looking forward to getting into the coding soon.
+
+### R1D56 (February 28th, 2018)
+Today I got a couple of snippets set up in Atom and Sublime. One for declaring a basic HTML document, and another for my custom CSS reset. I also got my portfolio page with a banner image set up. Next up, I'll be designing the header.
