@@ -194,3 +194,6 @@ I missed getting any coding done today. I'm gonna focus on finding of some time 
 
 ### R1D58 (March 2nd, 2018)
 Another missed day. I'll be able to get some coding in this weekend.
+
+### R1D59 (March 3rd, 2018)
+Today I read [this article on closures](https://medium.freecodecamp.org/whats-a-javascript-closure-in-plain-english-please-6a1fc1d2ff1c). It helped me better understand that closures and scope are closely related. In fact, closures seem to be the act of ultilizing different scopes within a function or functions.
