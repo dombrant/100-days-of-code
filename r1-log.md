@@ -191,3 +191,6 @@ Today I got a couple of snippets set up in Atom and Sublime. One for declaring a
 
 ### R1D57 (March 1st, 2018)
 I missed getting any coding done today. I'm gonna focus on finding of some time to work on my portfolio this weekend.
+
+### R1D58 (March 2nd, 2018)
+Another missed day. I'll be able to get some coding in this weekend.
