@@ -200,3 +200,6 @@ Today I read [this article on closures](https://medium.freecodecamp.org/whats-a-
 
 ### R1D60 (March 4th, 2018)
 Today I got the header for my portfolio site started. Next up, I'll be working on the sections below.
+
+### R1D61 (March 5th, 2018)
+Today I missed getting any coding in today. Looking forward to working on my portfolio tomorrow.
