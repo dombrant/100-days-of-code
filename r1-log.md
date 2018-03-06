@@ -203,3 +203,6 @@ Today I got the header for my portfolio site started. Next up, I'll be working o
 
 ### R1D61 (March 5th, 2018)
 Today I missed getting any coding in today. Looking forward to working on my portfolio tomorrow.
+
+### R1D62 (March 6th, 2018)
+Today I got the main sections for my portfolio page laid out. One of them has a gradient background, and I'm planning on implementing that for another.
