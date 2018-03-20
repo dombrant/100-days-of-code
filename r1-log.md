@@ -209,3 +209,6 @@ Today I got the main sections for my portfolio page laid out. One of them has a 
 
 ### R1D63 (March 18th, 2018)
 After taking the last week and a half off because I was on vacation, I was happy to get back into coding today. I got the 'learn more' button on my portfolio website working.
+
+### R1D64 (March 19th, 2018)
+Today I put the finishing touches on the 'learn more' button on my portfolio website. I also got the header's positioning working.
