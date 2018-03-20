@@ -212,3 +212,6 @@ After taking the last week and a half off because I was on vacation, I was happy
 
 ### R1D64 (March 19th, 2018)
 Today I put the finishing touches on the 'learn more' button on my portfolio website. I also got the header's positioning working.
+
+### R1D65 (March 20th, 2018)
+Today I got a little bit more work done on my portfolio website. I picked out the gradient backgrounds for the four main sections.
