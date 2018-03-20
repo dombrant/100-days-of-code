@@ -206,3 +206,6 @@ Today I missed getting any coding in today. Looking forward to working on my por
 
 ### R1D62 (March 6th, 2018)
 Today I got the main sections for my portfolio page laid out. One of them has a gradient background, and I'm planning on implementing that for another.
+
+### R1D63 (March 18th, 2018)
+After taking the last week and a half off because I was on vacation, I was happy to get back into coding today. I got the 'learn more' button on my portfolio website working.
