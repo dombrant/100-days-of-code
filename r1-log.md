@@ -215,3 +215,6 @@ Today I put the finishing touches on the 'learn more' button on my portfolio web
 
 ### R1D65 (March 20th, 2018)
 Today I got a little bit more work done on my portfolio website. I picked out the gradient backgrounds for the four main sections.
+
+### R1D66 (March 21st, 2018)
+Today I listened to [episode 20](https://freecodecamp.libsyn.com/ep-20-machine-learning-in-tensorflow-an-interview-with-nishant-shukla) of the FreeCodeCamp podcast about machine learning. It was really informative given my lack of experience in programming with maching learning tools such as TensorFlow.
