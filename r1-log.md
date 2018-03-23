@@ -218,3 +218,6 @@ Today I got a little bit more work done on my portfolio website. I picked out th
 
 ### R1D66 (March 21st, 2018)
 Today I listened to [episode 20](https://freecodecamp.libsyn.com/ep-20-machine-learning-in-tensorflow-an-interview-with-nishant-shukla) of the FreeCodeCamp podcast about machine learning. It was really informative given my lack of experience in programming with maching learning tools such as TensorFlow.
+
+### R1D67 (March 22nd, 2018)
+Today I read [JavaScript type coercion explained](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839).
