@@ -221,3 +221,6 @@ Today I listened to [episode 20](https://freecodecamp.libsyn.com/ep-20-machine-l
 
 ### R1D67 (March 22nd, 2018)
 Today I read [JavaScript type coercion explained](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839).
+
+### R1D68 (March 23rd, 2018)
+Today I got the header animation working on my portfolio website for desktop users.
