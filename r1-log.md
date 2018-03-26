@@ -227,3 +227,6 @@ Today I got the header animation working on my portfolio website for desktop use
 
 ### R1D69 (March 24th, 2018)
 Today I listened to [episode 35 ](http://frontendhappyhour.com/episodes/top-shelf-style-guides/) of the Front End Happy Hour podcast.
+
+### R1D70 (March 25th, 2018)
+Today I got the animation working that makes the buttons in the header in my portfolio website scroll down to a correspoding section of the page. I also got it working for using tab to navigate the buttons and enter to trigger the animation.
