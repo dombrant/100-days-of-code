@@ -224,3 +224,6 @@ Today I read [JavaScript type coercion explained](https://medium.freecodecamp.or
 
 ### R1D68 (March 23rd, 2018)
 Today I got the header animation working on my portfolio website for desktop users.
+
+### R1D69 (March 24th, 2018)
+Today I listened to [episode 35 ](http://frontendhappyhour.com/episodes/top-shelf-style-guides/) of the Front End Happy Hour podcast.
