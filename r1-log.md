@@ -230,3 +230,6 @@ Today I listened to [episode 35 ](http://frontendhappyhour.com/episodes/top-shel
 
 ### R1D70 (March 25th, 2018)
 Today I got the animation working that makes the buttons in the header in my portfolio website scroll down to a correspoding section of the page. I also got it working for using tab to navigate the buttons and enter to trigger the animation.
+
+### R1D71 (March 26th, 2018)
+Today I read [this article](http://www.monitis.com/blog/cc-in-review-the-key-differences-between-sql-and-nosql-dbs/) on the differences between SQL and NoSQL databases. It was a good read given that I have yet to start working with databases in my projects.
