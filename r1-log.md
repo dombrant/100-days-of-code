@@ -233,3 +233,6 @@ Today I got the animation working that makes the buttons in the header in my por
 
 ### R1D71 (March 26th, 2018)
 Today I read [this article](http://www.monitis.com/blog/cc-in-review-the-key-differences-between-sql-and-nosql-dbs/) on the differences between SQL and NoSQL databases. It was a good read given that I have yet to start working with databases in my projects.
+
+### R1D72 (March 27th, 2018)
+Today I got the nav of my portfolio website working on mobile. It was much easier than I was anticipating.
