@@ -236,3 +236,6 @@ Today I read [this article](http://www.monitis.com/blog/cc-in-review-the-key-dif
 
 ### R1D72 (March 27th, 2018)
 Today I got the nav of my portfolio website working on mobile. It was much easier than I was anticipating.
+
+### R1D73 (March 28th, 2018)
+I did less work on my portfolio than yesterday, but I got an SVG hamburger icon for the mobile nav, and I re positioned the header elements on desktop devices.
