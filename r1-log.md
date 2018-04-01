@@ -239,3 +239,6 @@ Today I got the nav of my portfolio website working on mobile. It was much easie
 
 ### R1D73 (March 28th, 2018)
 I did less work on my portfolio than yesterday, but I got an SVG hamburger icon for the mobile nav, and I re positioned the header elements on desktop devices.
+
+### R1D74 (March 29th, 2018)
+Today I got the close ("x") button SVG working for portfolio website's mobile nav.
