@@ -242,3 +242,6 @@ I did less work on my portfolio than yesterday, but I got an SVG hamburger icon 
 
 ### R1D74 (March 29th, 2018)
 Today I got the close ("x") button SVG working for portfolio website's mobile nav.
+
+### R1D75 (March 31st, 2018)
+Today I read [this article](https://medium.com/@Quigley_Ja/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8) from FreeCodeCamp about how the package-lock.json file works.
