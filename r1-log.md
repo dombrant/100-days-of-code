@@ -245,3 +245,6 @@ Today I got the close ("x") button SVG working for portfolio website's mobile na
 
 ### R1D75 (March 31st, 2018)
 Today I read [this article](https://medium.com/@Quigley_Ja/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8) from FreeCodeCamp about how the package-lock.json file works.
+
+### R1D76 (April 4th, 2018)
+Today I got the header slider up/down animation all figured out (for now that is, because I'm sure I'll make changes in the future). I decided to make the header fixed on desktop and not on mobile.
