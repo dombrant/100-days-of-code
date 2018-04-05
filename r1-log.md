@@ -248,3 +248,6 @@ Today I read [this article](https://medium.com/@Quigley_Ja/everything-you-wanted
 
 ### R1D76 (April 4th, 2018)
 Today I got the header slider up/down animation all figured out (for now that is, because I'm sure I'll make changes in the future). I decided to make the header fixed on desktop and not on mobile.
+
+### R1D77 (April 5th, 2018)
+Today I added header tags for each of the main sections on my portfolio website. Now that I've layed out the first part of those sections, I'll be thinking about how I plan on structuring each one.
