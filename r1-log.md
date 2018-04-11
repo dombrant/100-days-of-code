@@ -252,5 +252,8 @@ Today I got the header slider up/down animation all figured out (for now that is
 ### R1D77 (April 5th, 2018)
 Today I added header tags for each of the main sections on my portfolio website. Now that I've layed out the first part of those sections, I'll be thinking about how I plan on structuring each one.
 
-### R1D78 (April 5th, 2018)
+### R1D78 (April 9th, 2018)
 Today I refactored my fade in on scroll library. It's a small boilerpate for a function that checks if a DOM element is within the vieport and if so, it applies a CSS class to fade it in. I'm glad I was able to simplify the code base before implementing it in my portfolio website.
+
+### R1D79 (April 11th, 2018)
+Today I got the animation working on my portfolio website that fades in the header for each section when scrolling into view of it. I had to make some changes to my is-in-in-view library to get it working.
