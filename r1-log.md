@@ -257,3 +257,6 @@ Today I refactored my fade in on scroll library. It's a small boilerpate for a f
 
 ### R1D79 (April 11th, 2018)
 Today I got the animation working on my portfolio website that fades in the header for each section when scrolling into view of it. I had to make some changes to my is-in-in-view library to get it working.
+
+### R1D80 (April 24th, 2018)
+Today I did an experiment in Gulp using a source of a folder with a few files and a subfolder inside. It gave me a better understanding of how globs work in Node in terms of the order it grabs files and files within subfolders.
