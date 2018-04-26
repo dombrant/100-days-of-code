@@ -260,3 +260,6 @@ Today I got the animation working on my portfolio website that fades in the head
 
 ### R1D80 (April 24th, 2018)
 Today I did an experiment in Gulp using a source of a folder with a few files and a subfolder inside. It gave me a better understanding of how globs work in Node in terms of the order it grabs files and files within subfolders.
+
+### R1D81 (April 25th, 2018)
+Today I did some quick coding in Node.js, testing out the child process module. Specifically, I tested the exec method versus the spawn method. I found [this article](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a) helpful in understanding how they each work.
