@@ -263,3 +263,6 @@ Today I did an experiment in Gulp using a source of a folder with a few files an
 
 ### R1D81 (April 25th, 2018)
 Today I did some quick coding in Node.js, testing out the child process module. Specifically, I tested the exec method versus the spawn method. I found [this article](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a) helpful in understanding how they each work.
+
+### R1D82 (April 26th, 2018)
+Today I tried out Node's fs module in Node 10 using promises. I wasn't able to get it working, so I pivoted to using util.promisify. I also did some work on portfolio. I re organized the folders storing my scripts so that when I run my Gulp build, it will concat the files in the correct order.
