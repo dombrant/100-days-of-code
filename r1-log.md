@@ -267,5 +267,8 @@ Today I did some quick coding in Node.js, testing out the child process module. 
 ### R1D82 (April 26th, 2018)
 Today I tried out Node's fs module in Node 10 using promises. I wasn't able to get it working, so I pivoted to using util.promisify. I also did some work on portfolio. I re organized the folders storing my scripts so that when I run my Gulp build, it will concat the files in the correct order.
 
-### R1D83 (April 26th, 2018)
-Today I got HTTPS working on my portfolio website on GitHub Pages. I also refactored the repo down to one repo, where I have a separate 
+### R1D83 (May 2nd, 2018)
+Today I got HTTPS working on my portfolio website on GitHub Pages. I also refactored the repo down to one repo, where I have a separate folder for the coming soon page.
+
+### R1D84 (May 3rd, 2018)
+Today I finished the about section of my portfolio website. I also refactored the animation that fades in the content to use requestAnimationFrame.
