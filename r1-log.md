@@ -272,3 +272,6 @@ Today I got HTTPS working on my portfolio website on GitHub Pages. I also refact
 
 ### R1D84 (May 3rd, 2018)
 Today I finished the about section of my portfolio website. I also refactored the animation that fades in the content to use requestAnimationFrame.
+
+### R1D85 (May 4th, 2018)
+Today I changed the coming soon and 404 pages on my portfolio to use the same hero image as the main site. I also cleaned up my animations that I refactored yesterday. I got a solution working that cancels the requestAnimationFrame for one of my animations after it is complete.
