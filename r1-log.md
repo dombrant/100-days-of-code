@@ -275,3 +275,6 @@ Today I finished the about section of my portfolio website. I also refactored th
 
 ### R1D85 (May 4th, 2018)
 Today I changed the coming soon and 404 pages on my portfolio to use the same hero image as the main site. I also cleaned up my animations that I refactored yesterday. I got a solution working that cancels the requestAnimationFrame for one of my animations after it is complete.
+
+### R1D86 (May 6th, 2018)
+Today I refactored some small parts of my random cli. I also made some changes to my get module (including choosing a name for it), which is a simple HTTP get API that returns a promise. I created a GitHub repo for it.
