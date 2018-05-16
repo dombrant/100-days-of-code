@@ -278,3 +278,6 @@ Today I changed the coming soon and 404 pages on my portfolio to use the same he
 
 ### R1D86 (May 6th, 2018)
 Today I refactored some small parts of my random cli. I also made some changes to my get module (including choosing a name for it), which is a simple HTTP get API that returns a promise. I created a GitHub repo for it.
+
+### R1D87 (May 15th, 2018)
+Today I made some consolidations in my list of programming topics to learn. I added in some of my upcoming projects, so that I know at what points to switch off between learning something and working on a project.
