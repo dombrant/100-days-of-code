@@ -281,3 +281,6 @@ Today I refactored some small parts of my random cli. I also made some changes t
 
 ### R1D87 (May 15th, 2018)
 Today I made some consolidations in my list of programming topics to learn. I added in some of my upcoming projects, so that I know at what points to switch off between learning something and working on a project.
+
+### R1D88 (May 17th, 2018)
+Today I got started on the resume section of my portfolio website. I also discovered a new technique for loading images in JavaScript using the new Image() class. This is helpful because on the first load, it avoids showing a black and white, pixelated version of the version.
