@@ -284,3 +284,6 @@ Today I made some consolidations in my list of programming topics to learn. I ad
 
 ### R1D88 (May 17th, 2018)
 Today I got started on the resume section of my portfolio website. I also discovered a new technique for loading images in JavaScript using the new Image() class. This is helpful because on the first load, it avoids showing a black and white, pixelated version of the version.
+
+### R1D89 (May 20th, 2018)
+Today I did some work on my portfolio website, mainly reordering some of the HTML elements to make the resume section more responsive.
