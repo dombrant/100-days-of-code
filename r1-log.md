@@ -287,3 +287,6 @@ Today I got started on the resume section of my portfolio website. I also discov
 
 ### R1D89 (May 20th, 2018)
 Today I did some work on my portfolio website, mainly reordering some of the HTML elements to make the resume section more responsive.
+
+### R1D90 (May 21st, 2018)
+Today I added another subsection to the resume section of my portfolio website. I got the SVGs icons working, which was harder than I thought.
