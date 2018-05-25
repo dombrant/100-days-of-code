@@ -290,3 +290,6 @@ Today I did some work on my portfolio website, mainly reordering some of the HTM
 
 ### R1D90 (May 21st, 2018)
 Today I added another subsection to the resume section of my portfolio website. I got the SVGs icons working, which was harder than I thought.
+
+### R1D91 (May 24th, 2018)
+Today I finished the resume section of my portfolio website. I switched the SVG icons from inline to external files linked with object elements. I feel a lot more confident on working with SVG icons now.
