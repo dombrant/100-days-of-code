@@ -296,3 +296,6 @@ Today I finished the resume section of my portfolio website. I switched the SVG 
 
 ### R1D92 (June 10th, 2018)
 Today I worked on my Blurry Image Load library. I created a new branch for version 2 and created a GitHub repo. Next, I'll be re doing the main script.
+
+### R1D93 (June 11th, 2018)
+Today I did some more work on my Blurry Image Load library. I updated the syntax to be more ES2015+ style. I also changed the value the script stores each img element and its data attribute to a single array of objects.
