@@ -293,3 +293,6 @@ Today I added another subsection to the resume section of my portfolio website. 
 
 ### R1D91 (May 24th, 2018)
 Today I finished the resume section of my portfolio website. I switched the SVG icons from inline to external files linked with object elements. I feel a lot more confident on working with SVG icons now.
+
+### R1D92 (June 10th, 2018)
+Today I worked on my Blurry Image Load library. I created a new branch for version 2 and created a GitHub repo. Next, I'll be re doing the main script.
