@@ -299,3 +299,6 @@ Today I worked on my Blurry Image Load library. I created a new branch for versi
 
 ### R1D93 (June 11th, 2018)
 Today I did some more work on my Blurry Image Load library. I updated the syntax to be more ES2015+ style. I also changed the value the script stores each img element and its data attribute to a single array of objects.
+
+### R1D94 (June 15th, 2018)
+Today I did the last major piece of refactoring for my Blurry Image Load library. I also got the Gulp build working. All of which took less time than I was anticipating. Now I need to touch up the README and it should be ready to be merged into the master branch.
