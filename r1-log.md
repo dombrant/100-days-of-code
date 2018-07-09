@@ -305,3 +305,6 @@ Today I did the last major piece of refactoring for my Blurry Image Load library
 
 ### R1D95 (June 16th, 2018)
 Today I got closer to being done with version 2.0 of my Blurry Image Load library. I've finished all the CSS and JS work necessary, now I just need to update the README and CHANGELOG, and then merge it into the master branch.
+
+### R1D96 (July 8th, 2018)
+Today I finished the changes in the v2 branch for my Blurry Image Load library. I merged it into master and got some new experience with resolving merge conflicts.
