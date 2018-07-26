@@ -308,3 +308,6 @@ Today I got closer to being done with version 2.0 of my Blurry Image Load librar
 
 ### R1D96 (July 8th, 2018)
 Today I finished the changes in the v2 branch for my Blurry Image Load library. I merged it into master and got some new experience with resolving merge conflicts.
+
+### R1D97 (July 25th, 2018)
+Today I created a quick script in Node.js to download the images for the demo website for my Blurry Image Load library (instead of using remote links from the random websites I found them on). I used the download library, which was very easy to get working.
