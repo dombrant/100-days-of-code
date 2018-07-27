@@ -311,3 +311,6 @@ Today I finished the changes in the v2 branch for my Blurry Image Load library. 
 
 ### R1D97 (July 25th, 2018)
 Today I created a quick script in Node.js to download the images for the demo website for my Blurry Image Load library (instead of using remote links from the random websites I found them on). I used the download library, which was very easy to get working.
+
+### R1D98 (July 26th, 2018)
+Today I finished creating the demo page for my Blurry Image Load library, and I got it working on GitHub Pages. I also got some work done on my portfolio website, including adding some accessibility attributes for the SVGs used.
