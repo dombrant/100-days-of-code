@@ -314,3 +314,6 @@ Today I created a quick script in Node.js to download the images for the demo we
 
 ### R1D98 (July 26th, 2018)
 Today I finished creating the demo page for my Blurry Image Load library, and I got it working on GitHub Pages. I also got some work done on my portfolio website, including adding some accessibility attributes for the SVGs used.
+
+### R1D99 (July 27th, 2018)
+Today I spent a lot of time working on getting the header simplified for my portfolio website. I finally got it working where I no longer rely on creating a second header element in the DOM. I also got it working to smoothly scroll to each main section while accounting for the header being visible (so it offsets the scroll destination). It took awhile but I feel very accomplished that I got it working.
